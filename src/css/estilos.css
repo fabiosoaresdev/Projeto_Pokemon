@@ -124,13 +124,3 @@ main .descricao {
 	font-size: 14px;
 	padding-right: 10px;
 }
-
-@media (max-width: 768px) {
-	main .listagem-pokemon {
-	  justify-content: space-between;
-	}
-	main .cartao-pokemon {
-	  width: 45%;
-	}
-  }
-
