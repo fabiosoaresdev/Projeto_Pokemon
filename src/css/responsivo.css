@@ -1,0 +1,27 @@
+@media (max-width: 992px) {
+
+ 
+ }
+ 
+ @media (max-width: 768px) {
+    
+     
+ }
+ 
+ @media (max-width: 425px) {
+    .listagem-pokemon .cartao-pokemon{
+        width: 180px;
+        height: 300px;
+    }
+
+    main .listagem-pokemon {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+    }
+ }
+ 
+ @media (max-width: 375px) {
+
+ }
